@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @SyedaMasarath
 - 👀 I’m interested in Solving all kinds of DSA problems.
-- 🌱 I’m currently learning and experimenting with DevOps Tools and more.
+- 🌱 I’m a DevOps Engineer
+- and Experimenting with Full Stack Development these days. [MERN]
+
 <h3>My coding Profiles:</h3><p>https://auth.geeksforgeeks.org/user/zmasarath</p>
 
 <!---
