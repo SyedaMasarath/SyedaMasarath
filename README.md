@@ -2,7 +2,7 @@
 - 👀 I’m interested in Solving all kinds of Cloud problems.
 - 🌱 I’m a DevOps Engineer And my Primary Tech Stack is :[ AWS k8s Docker Python Linux Ansible Terraform Domo Cloud Security ]
 - I use Python For Automation.
-- Learning and Experimenting with MLOps these days. [MERN]
+- Learning and Experimenting with MLOps & AI agents these days. 
 - Look forward to seeing interesting projects coming your way shortly 🤠.
 
 
